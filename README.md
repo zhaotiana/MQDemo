@@ -1,0 +1,2 @@
+# MQDemo
+Hello Word rabbitMQ
